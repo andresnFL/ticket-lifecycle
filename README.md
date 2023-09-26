@@ -25,25 +25,43 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/guQCXTH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- INTAKE -
+  <P></P>
+First stage in the ticketing lifecycle is the initial problem and ticket submission. Below is an example of how a ticket appears for an Admin User. The situation is Priority High, with the end user running into a problem with establishing connection to their POS for their customers. The information of the user, the priority level, and ticket type is all available to us. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Zk3T8OW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- ASSIGNMENT -
+<P> <P/>
+  In the second stage of a ticket, it is assigned to an agent. The pre-determined SLA and priority level will allow for the ticket to be sent to the correct agent. For example, this situation would be sent to a Support Agent or a System admin to assign it to an agent, not someone in the Maintenance team. Communication is key for agents/admin to assign each other tickets and get it to the right place.
+</p>
+<br />
+
+
+<p>
+
+<img src="https://imgur.com/5smPm2D.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- WORKING - 
+<P></P>
+In the third stage of the ticketing process, the designated agent will work through the ticket, getting wiht any referred departments to resolve the issue once and for all. The agent will also maintain communication with the end user, keeping them in the loop and getting status updates on their hardware/software. 
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/3lNJaUe.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Resolution - 
+<p></p>
+The final stage is Resolution. After working the ticket and figuring out what is necessary. The agent will then resolve the ticket with the end user, place the ticket in resolved status, and clear up any loose ends with referred agents, communicating effectively and thoroughly. 
 </p>
 <br />
